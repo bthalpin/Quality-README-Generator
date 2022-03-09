@@ -1,8 +1,8 @@
-# placeholder
+# PLACEHOLDER
 
 
 ## Description
-placeholder
+PLACEHOLDER
 
 ## Table of Contents
 
@@ -21,22 +21,22 @@ placeholder
 ## Installation
 To install the necessary dependencies, run the following command:
 
-    none
+    NONE
 
 ## Usage
-nothing
+NOTHING
 
 ## License
 None
 
 ## Contributing
-none
+NONE
 
 ## Tests
 To run tests, run the following command:
 
-    none
+    NONE
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at <placeholder>. You can find more
-    of my work at [Placeholder](https://github.com/placeholder).
+If you have any questions about the repo, open an issue or contact me directly at <PLACEHOLDER>. You can find more
+    of my work at [PLACEHOLDER](https://github.com/PLACEHOLDER).
