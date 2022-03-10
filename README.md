@@ -21,7 +21,7 @@ Creates a quality README file to include in your repository.  Once created it wi
 [Questions](#questions)
 
 ## Media
-[Video walk-through of creating a README](https://watch.screencastify.com/v/5BEAx3v8f4ipezriltm7)
+[Video walk-through of creating a README](https://watch.screencastify.com/v/8fbpZYlGUOrv2ZeJ9yf2)
 
 [Cancelling the creation after noticing a mistake](https://watch.screencastify.com/v/DD7T6CQrznKcsXtnx3IU)
 

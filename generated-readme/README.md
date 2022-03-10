@@ -1,8 +1,8 @@
-# PLACEHOLDER
-
+# Quality README GEnerator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-PLACEHOLDER
+Creates a README for your repo
 
 ## Table of Contents
 
@@ -21,22 +21,22 @@ PLACEHOLDER
 ## Installation
 To install the necessary dependencies, run the following command:
 
-    NONE
+    npm install
 
 ## Usage
-NOTHING
+Move README before running again if you want to save it
 
 ## License
-None
+This product is licensed under MIT
 
 ## Contributing
-NONE
+No Contributions
 
 ## Tests
 To run tests, run the following command:
 
-    NONE
+    npm test
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at <PLACEHOLDER>. You can find more
-    of my work at [PLACEHOLDER](https://github.com/PLACEHOLDER).
+If you have any questions about the repo, open an issue or contact me directly at <brian.t.halpin@gmail.com>. You can find more
+    of my work at [Brian Halpin](https://github.com/bthalpin).
