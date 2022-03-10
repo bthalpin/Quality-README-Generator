@@ -60,20 +60,31 @@ inquirer
         {
             type:'confirm',
             message:({name,githubName,email,projectName,description,license,dependencies,test,usage,contributing})=>{
-return (`Please confirm your information:
-Name: ${name}
-GitHub Name: ${githubName}
-Email: ${email}
-Project Name: ${projectName}
-Description: ${description}
-License: ${license}
-Method to install dependencies: ${dependencies}
-Method to run tests: ${test}
-Usage: ${usage}
-Contributions: ${contributing}
+    return (`
+    PLEASE CONFIRM YOUR INFORMATION:
 
-Proceed with README creation?
-`)
+    Name: ${name}
+
+    GitHub Name: ${githubName}
+
+    Email: ${email}
+
+    Project Name: ${projectName}
+
+    Description: ${description}
+
+    License: ${license}
+
+    Method to install dependencies: ${dependencies}
+
+    Method to run tests: ${test}
+
+    Usage: ${usage}
+
+    Contributions: ${contributing}
+
+    Proceed with README creation?
+    `)
 
             },
             name:'confirmed'

@@ -6,6 +6,8 @@ Creates a quality README file to include in your repository.  Once created it wi
 
 ## Table of Contents
 
+[Media](#media)
+
 [Installation](#installation)
 
 [Usage](#usage)
@@ -18,13 +20,18 @@ Creates a quality README file to include in your repository.  Once created it wi
 
 [Questions](#questions)
 
+## Media
+[Video walk-through of creating a README](https://watch.screencastify.com/v/5BEAx3v8f4ipezriltm7)
+
+[Cancelling the creation after noticing a mistake](https://watch.screencastify.com/v/DD7T6CQrznKcsXtnx3IU)
+
 ## Installation
 To install the necessary dependencies, run the following command:
 
     npm install
 
 ## Usage
-To use the README generator you must first install Inquirer.
+To use the README generator you must first install Inquirer.  Enter 'node index.js' into the terminal and follow the prompts.  Confirm your information to generate the README.
 
 ## License
 This product is licensed under MIT
